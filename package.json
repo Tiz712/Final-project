@@ -1,0 +1,20 @@
+{
+  "name": "geometric-reasoning-system",
+  "version": "1.0.0",
+  "description": "A geometric reasoning system with multimodal understanding",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.11.0",
+    "networkx": "^0.1.1",
+    "torch-js": "^0.15.0",
+    "transformers": "^4.33.2"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.4"
+  }
+}

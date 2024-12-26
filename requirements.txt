@@ -1,0 +1,4 @@
+streamlit==1.27.2
+networkx==3.1
+matplotlib==3.7.2
+pyswip==0.2.10
